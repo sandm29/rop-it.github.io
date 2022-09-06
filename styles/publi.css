@@ -1,0 +1,22 @@
+.publicacion{
+    height: 300px;
+    width: 250px;
+    background-color: #0E0833;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.publicacion:hover {
+    box-shadow: 5px 5px 5px #080520;
+}
+
+#buy-section{
+    margin: 0px;
+    height: auto;
+    width: 100%;
+    padding: 20px 50px 20px 50px;
+    display: grid;
+    grid-template-columns: repeat(4,25%);
+    gap: 20px;
+    border-top: 2px solid #080520;
+}

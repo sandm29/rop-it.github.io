@@ -1,0 +1,10 @@
+@media (max-width : 500px) {
+
+    #buy-section{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+}

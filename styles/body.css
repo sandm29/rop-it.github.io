@@ -1,0 +1,31 @@
+*{
+    color: #fff;
+}
+a{
+    color: inherit;
+}
+
+main{
+    height: auto;
+    width: 100%;
+}
+
+body{
+    padding-top: 70px;
+    height: auto;
+    width: 100%;
+    background-color: #160C53;
+}
+
+header{
+    height: auto;
+    width: 100%;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
