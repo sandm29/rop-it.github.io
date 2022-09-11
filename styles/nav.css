@@ -14,7 +14,22 @@ nav{
 }
 
 #hero{
-    margin:0px;
+    margin: 0;
     height: 500px;
     width: 100%;
+}
+
+.filtro{
+    height: 30px;
+    width: auto;
+    transition: 0.1s;
+    background-color: transparent;
+    border: none;
+}
+
+.filtro:hover{
+
+    background-color: #202292;
+    border-radius: 5px;
+
 }
